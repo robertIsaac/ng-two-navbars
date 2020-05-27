@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-two-navbars"
+    }
+  },
+  "defaultProject": "ng-two-navbars",
+  "cli": {
+    "analytics": "f9405705-d9bf-4de6-9ce8-ad74ed5c1dd0"
+  }
 }
